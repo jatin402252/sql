@@ -1,0 +1,6 @@
+CREATE TABLE `nobody`.`student` (
+  `ID` INT NOT NULL,
+  ` FIRST NAME` VARCHAR(45) NULL,
+  `LAST NAME` VARCHAR(45) NULL,
+  PRIMARY KEY (`ID`))
+COMMENT = 'student tables in use for my college database ';

@@ -1,0 +1,16 @@
+INSERT INTO `nobody`.`student`
+(`ID`,
+` FIRST NAME`,
+`LAST NAME`)
+VALUES
+(180231364,"RAHUL","KUMAR"),
+(180231367,"MOHIT","SHARMA");
+
+
+
+
+
+
+
+
+
